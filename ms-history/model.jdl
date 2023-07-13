@@ -1,0 +1,6 @@
+entity History {
+    searchDate Instant required,
+    request String required,
+    date String required,
+    day String required,
+}

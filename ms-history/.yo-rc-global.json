@@ -1,0 +1,8 @@
+{
+  "generator-jhipster:7.9.3": {
+    "promptValues": {
+      "packageName": "com.groupeis.m2gl",
+      "nativeLanguage": "fr"
+    }
+  }
+}
